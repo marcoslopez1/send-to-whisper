@@ -15,6 +15,13 @@ Send to Whisper is a minimal web app that allows users to upload audio files and
 ## Live App
 👉 [Here](https://send-to-whisper.lovable.app)
 
+## How to use the app
+- Enter your OpenAI API key on the browser (required only once).
+- Upload or drag-and-drop an audio file.
+- Wait for the transcription to complete.
+- Download your transcript in your preferred format.
+Privacy note: Your API key and audio files never leave your browser except to communicate directly with OpenAI.
+
 ## Lovable Project
 👉 [Here](https://lovable.dev/projects/de50608c-8858-4491-afa6-d6aa5c98e196)
 Changes made via Lovable will be committed automatically to this repo.
