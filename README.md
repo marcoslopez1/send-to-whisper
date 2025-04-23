@@ -3,9 +3,13 @@ Send to Whisper is a minimal web app that allows users to upload audio files and
 
 ## Features
 🎙 Upload audio files via drag-and-drop or file picker
+
 ✨ Automatic transcription using OpenAI Whisper API
+
 📄 Export transcriptions in .txt, .srt, and .vtt formats
+
 📊 Real-time progress indicator with estimated time remaining
+
 🧼 Clean, user-friendly interface
 
 ## Live App
